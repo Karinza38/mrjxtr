@@ -1,4 +1,4 @@
-# Hi there, I'm Jester Lumacad! (@mrjxtr | Mr J) 👋🏼 Welcome to my GitHub portfolio!
+ # Hi there, I'm Jester Lumacad! (@mrjxtr | Mr J) 👋🏼 Welcome to my GitHub portfolio!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=7000&pause=1000&width=1000&lines=Freelance+Automation+%26+Scripting%2C+Software+developer+(Python);Aspiring+AI+Software+Developer;Fascinated+about+everything+Data+Science%2C+AI+%26+Development;Aiming+to+solve+problems+through+coding+AI+software;Let+the+journey+begin!)](https://git.io/typing-svg)
 
